@@ -774,13 +774,17 @@ body.mobile-nav-active #mobile-nav-toggle {
   position: relative;
   top: 0;
   transition: all 600ms cubic-bezier(0.645, 0.045, 0.355, 1);
+  text-align:center;
+   display:block;
+   width:85%;
+    margin:auto;
 }
 
 #portfolio .portfolio-item .details {
   height: 50px;
   background: #2dc997;
   position: absolute;
-  width: 100%;
+  width: 85%;
   height: 50px;
   bottom: -50px;
   transition: all 300ms cubic-bezier(0.645, 0.045, 0.355, 1);
