@@ -506,6 +506,12 @@ body.mobile-nav-active #mobile-nav-toggle {
   margin-bottom: 10px;
 }
 
+#about .about-container .background2 {
+  min-height: 300px;
+  background: url(../img/shunya.jpg) center top no-repeat;
+  margin-bottom: 10px;
+}
+
 #about .about-container .content {
   background: #fff;
 }
